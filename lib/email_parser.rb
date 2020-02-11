@@ -1,5 +1,5 @@
 class EmailAddressParser
-  attr_accessor :
+  attr_accessor :name :emails
   
   
   def initialize(emails)
