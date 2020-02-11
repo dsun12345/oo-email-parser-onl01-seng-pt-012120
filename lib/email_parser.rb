@@ -8,7 +8,7 @@ class EmailAddressParser
   
   def parse 
     emails.split.collect do |address| 
-      
+    address.split 
   end
   
   
